@@ -24,7 +24,7 @@ The application supports basic arithmetic operations and demonstrates event-driv
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/Spjsss/Calculator-javafx.git]
+git clone https://github.com/Spjsss/Calculator-javafx.git
 ```
 ### 2. Open the project
 

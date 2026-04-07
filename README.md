@@ -46,6 +46,6 @@ Run the main class to start the calculator
 This project focuses on GUI development using JavaFX
 Demonstrates event-driven programming and user interaction
 
-* **👤 Author**
-  
+
+**👤 Author**
 Sim Pei Jun
